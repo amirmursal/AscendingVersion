@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          At Ascending Version, we offer a wide range of services to meet the ever-evolving technological needs of our clients. Our services include web development, mobile application development, software testing, digital marketing, and IT consulting. We use the latest technologies and follow industry best practices to ensure that our clients receive the best results.
           </p>
         </div>
         <div className="row">

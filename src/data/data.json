@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Transform your business with innovative IT solutions",
+    "paragraph": "Boost productivity and efficiency with cutting-edge software services and products from Ascending Version."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Ascending Version is a leading IT company that offers top-quality software services and products to clients worldwide. Our team of experienced professionals is dedicated to delivering innovative and customized solutions to help businesses achieve their goals.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Proven track record of delivering high-quality solutions",
+      "Client-centric approach tailored to unique needs",
+      "Commitment to rigorous testing for robust and reliable outcomes",
+      "Continuous innovation and integration of cutting-edge technologies"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Timely delivery to support business growth",
+      "Scalable solutions adaptable for startups and enterprises",
+      "Transparent communication and ongoing client support",
+      "Unwavering commitment to excellence and customer satisfaction"
     ]
   },
   "Gallery": [
@@ -68,33 +68,48 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Custom Software Development",
+      "text": "Create tailored software solutions to meet your unique business needs"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Application Development",
+      "text": "Build responsive and user-friendly web applications for your online presence"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Mobile App Development",
+      "text": "Deliver exceptional mobile experiences with innovative and seamless app development"
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cloud Solutions",
+      "text": "Efficient cloud solutions to streamline your business operations and enhance productivity"
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Data Analytics Solutions",
+      "text": "Gain valuable insights from your data and make informed business decisions"
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "AI Chatbot Development",
+      "text": "Enhance customer experience and automate repetitive tasks with intelligent chatbots"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Cybersecurity Solutions",
+      "text": "Protect your business from cyber threats and safeguard sensitive information"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "IT Consulting Services",
+      "text": "Get expert advice and solutions to optimize your IT infrastructure"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Enterprise Application Integration",
+      "text": "Seamlessly integrate your systems for improved efficiency and collaboration"
     }
   ],
   "Testimonials": [
