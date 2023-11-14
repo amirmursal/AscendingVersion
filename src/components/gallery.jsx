@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Our Products</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          In addition to our services, we also have a range of innovative and user-friendly software products for businesses of all sizes. Our products include project management software, HR management software, and CRM software. These products are designed to streamline processes, increase efficiency, and improve overall performance.
           </p>
         </div>
         <div className="row">
