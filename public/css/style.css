@@ -203,6 +203,9 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+video {
+ object-fit: cover;
+}
 /* Header Section */
 .intro {
   display: table;

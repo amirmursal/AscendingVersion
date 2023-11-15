@@ -4,7 +4,7 @@ export const Header = (props) => {
   return (
     <header id="header">
       <div className="intro">
-        <video controls autoPlay muted width="100%" height="600">
+        <video autoPlay muted width="100%" height="600">
           <source src="img/AscendingVersion.mp4" type="video/mp4"></source>
         </video>
         {/*<div className="overlay">         
