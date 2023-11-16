@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Transform your business with innovative IT solutions",
-    "paragraph": "Boost productivity and efficiency with cutting-edge software services and products from Ascending Version."
+    "title": "Drive Digital Transformation with Ascending Version",
+    "paragraph": "Cruise into the Future of Technology with Our Innovative IT Solutions"
   },
   "About": {
     "paragraph": "Ascending Version is a leading IT company that offers top-quality software services and products to clients worldwide. Our team of experienced professionals is dedicated to delivering innovative and customized solutions to help businesses achieve their goals.",
@@ -27,7 +27,7 @@
     {
       "title": "Valet Space (Valet Services)",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/Valet Space.jpg"
+      "smallImage": "img/portfolio/ValetSpace1.jpg"
     },
     {
       "title": "Right Away (Self-Checkout App)",
@@ -132,9 +132,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "C-102 Bramha Exuberance, Pune. ",
+    "phone": "+91-9423015450",
+    "email": "hgshk12@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
