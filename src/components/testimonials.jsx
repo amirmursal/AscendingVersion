@@ -25,6 +25,9 @@ export const Testimonials = (props) => {
               ))
             : "loading"}
         </div>
+        <div className="careerEmail text-center">
+          share your CV at careers@asendingversion.com
+        </div>
       </div>
     </div>
   );

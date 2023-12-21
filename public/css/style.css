@@ -224,7 +224,7 @@ video {
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 82px;
+  font-size: 32px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
@@ -243,9 +243,9 @@ video {
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 160px;
   padding-bottom: 200px;
-  text-align: center;
+  text-align: left;
 }
 /* Features Section */
 #features {
@@ -301,6 +301,7 @@ header .intro-text {
 }
 #about img {
   width: 520px;
+  height: 442px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
@@ -406,6 +407,10 @@ header .intro-text {
 #testimonials {
   padding: 100px 0;
   background: #f6f6f6;
+}
+.careerEmail {
+  font-size: 24px;
+  font-weight: 700;
 }
 #testimonials i {
   color: #e6e6e6;
