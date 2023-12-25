@@ -17,8 +17,18 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Ascending Version
+          <a
+            className="navbar-brand page-scroll"
+            href="#page-top"
+            style={{ display: "flex", alignItems: "center" }}
+          >
+            <img
+              src="../img/ascendingVersionLogo.png"
+              alt=""
+              width="50px"
+              height="50px"
+            />
+            &nbsp; Ascending Version
           </a>{" "}
         </div>
 
@@ -49,7 +59,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-              Careers
+                Careers
               </a>
             </li>
             {/* <li>
